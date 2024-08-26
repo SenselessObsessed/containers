@@ -1,3 +1,4 @@
+import './css/style.css'
 import Character from './js/Character';
 import ErrorRepository from './js/ErrorRepository';
 import Settings from './js/Settings';
